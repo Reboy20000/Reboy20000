@@ -28,12 +28,9 @@ I am currently working on **Sling**, a Custom programming language. For a starte
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reboy20000&theme=github_dark&hide=contribs&show_icons=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reboy20000&theme=github_dark&layout=compact" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Reboy20000&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reboy20000&layout=compact&theme=radical)
+
 
 <br/>
 <br/>
