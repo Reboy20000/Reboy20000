@@ -2,7 +2,7 @@
 
 Contact me at: reyaanshsinha4@gmail.com
 ## About me
-I am Reyaansh Sinha, a 10-year-old Indian Programmer aiming to create amazing projects and products for various purposes. 
+I am Reyaansh Sinha, a 11-year-old Indian Programmer aiming to create amazing projects and products for various purposes. 
 
 I am currently working on **Splice** A Custom programming language
 
