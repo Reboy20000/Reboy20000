@@ -1,4 +1,4 @@
-# Hi, I am Today,Tomorrow and forever ! Reyaansh Sinha
+# Hi, I am Today, Tommorow and Always || Reyaansh Sinha
 
 Contact me at: reyaanshsinha4@gmail.com
 ## About me
