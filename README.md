@@ -1,4 +1,4 @@
-# Hi, I am Today, Tommorow and Always || Reyaansh Sinha
+# An Infinite spark in a finite world || Reyaansh Sinha
 
 Contact me at: reyaanshsinha4@gmail.com
 ## About me
